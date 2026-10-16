@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Model weights / checkpoints (forbidden in repo)
+*.pt
+*.pth
+*.ckpt
+
+# Raw data (forbidden in repo)
+data/
+datasets/
+
+# Experiment tracking (local W&B files)
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
