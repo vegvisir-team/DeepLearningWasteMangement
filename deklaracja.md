@@ -1,0 +1,5 @@
+AI bedzie uzywanie do generowania dokumentacji, tlumaczenia rozwiazan i debugowania kodu. Bedzie to ekosystem anthropica w tym Claude Opus 5.5 i Fable 5.1. Wszystkie prompty beda trafiac  [tutaj](AI-UZYCIE.md)
+
+## Uczestnicy 
+- Max Duda 
+- Monika Duda 
